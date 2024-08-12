@@ -4,9 +4,10 @@ WSLで使用するターミナルのデザインを変更する手順です。
 # Setup
 - 以下から好きなフォントをダウンロードする  
 [ここから](https://www.nerdfonts.com/font-downloads)  
-今回はCousin Nerd Fontを使う
-
-- HomeBrewをインストールする
+今回はCousin Nerd Fontを使う  
+インストールが終わったらZIPを解凍し、使いたいフォントを右クリックしてインストールする。
+Terminalの設定でそのフォントを選択する。
+- HomeBrewをインストールする  
 Debian系
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
